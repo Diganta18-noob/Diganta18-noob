@@ -67,10 +67,10 @@ const diganta = {
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 🔗 |
 |---|---|---|---|
-| **💬 Realtime Chat App** | Full-featured chat with rooms, notifications & typing indicators | `MERN` `Socket.io` `JWT` | [![Repo](https://img.shields.io/badge/View-Repo-00D9FF?style=flat-square&logo=github)](https://github.com/Diganta18-noob) |
-| **🌦️ Weather Forecast** | Beautiful weather app with 5-day forecast & location search | `React` `OpenWeather API` `CSS` | [![Repo](https://img.shields.io/badge/View-Repo-7B2FBE?style=flat-square&logo=github)](https://github.com/Diganta18-noob) |
-| **🏛️ Indian Cultural Heritage** | Showcase of India's rich cultural heritage with stunning visuals | `React` `Three.js` `GSAP` | [![Repo](https://img.shields.io/badge/View-Repo-FF6B6B?style=flat-square&logo=github)](https://github.com/Diganta18-noob) |
-| **🌾 FarmIntel** | Smart agriculture platform with data-driven insights for farmers | `MERN` `ML APIs` `Charts` | [![Repo](https://img.shields.io/badge/View-Repo-4CAF50?style=flat-square&logo=github)](https://github.com/Diganta18-noob) |
+| **🛒 DogCart** | Full-scale E-commerce/Cart Application | `JavaScript` `Frontend` | [![Repo](https://img.shields.io/badge/View-Repo-00D9FF?style=flat-square&logo=github)](https://github.com/Diganta18-noob/DogCart) |
+| **💰 Loanapp** | Loan Management Application System | `JavaScript` | [![Repo](https://img.shields.io/badge/View-Repo-7B2FBE?style=flat-square&logo=github)](https://github.com/Diganta18-noob/Loanapp) |
+| **🏫 New Campus Management** | Campus management and administration dashboard | `JavaScript` | [![Repo](https://img.shields.io/badge/View-Repo-FF6B6B?style=flat-square&logo=github)](https://github.com/Diganta18-noob/New-Campus-Management) |
+| **⚕️ PulseCare Pro** | Healthcare management and tracking platform | `JavaScript` | [![Repo](https://img.shields.io/badge/View-Repo-4CAF50?style=flat-square&logo=github)](https://github.com/Diganta18-noob/PulseCare-Pro) |
 
 </div>
 
