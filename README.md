@@ -44,14 +44,6 @@
 - 🏫 New Campus Management — https://github.com/Diganta18-noob/New-Campus-Management
 - ⚕️ PulseCare Pro — https://github.com/Diganta18-noob/PulseCare-Pro
 
-### Open Source
-
-- 🌟 Add your notable contributions here (example: Contributor to [Project Name](https://github.com/owner/repo)).
-
-### Experiments
-
-- 🧪 Add small prototypes, AI experiments, and learning projects here.
-
 > Tip: Keep README files in each repo with badges, setup steps, and usage examples.
 
 ---
@@ -73,9 +65,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
