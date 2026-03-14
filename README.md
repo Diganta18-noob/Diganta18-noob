@@ -1,15 +1,17 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Hi+%F0%9F%91%8B+I'm+Diganta+Biswas;MERN+Stack+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Hi+%F0%9F%91%8B+I'm+Diganta+Biswas;MERN+Stack+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Modern+Web+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=200&section=header&text=Diganta%20Biswas&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Web%20Innovator&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=250&section=header&text=Diganta%20Biswas&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20React%20•%20Node%20•%20MongoDB%20•%20Three.js&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner"/>
 
 <!-- Profile Views & Followers Badges -->
-![](https://komarev.com/ghpvc/?username=Diganta18-noob&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Diganta18-noob?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117)](https://github.com/Diganta18-noob)
-[![](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Diganta18-noob)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diganta18-noob&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <a href="https://github.com/Diganta18-noob?tab=followers"><img src="https://img.shields.io/github/followers/Diganta18-noob?label=Followers&style=flat&color=7B2FBE&labelColor=0d1117" alt="Followers" /></a>
+  <a href="https://github.com/Diganta18-noob"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 </div>
 
@@ -46,18 +48,11 @@ const diganta = {
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,threejs,html,css&perline=7&theme=dark)](https://skillicons.dev)
-
-### Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4&theme=dark)](https://skillicons.dev)
-
-### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=6&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,threejs,git,github,vscode,html,css,postman,figma,vercel&perline=8&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 ---
 
@@ -78,62 +73,87 @@ const diganta = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Diganta18-noob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff&border_radius=12&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Diganta18-noob&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE&sideLabels=ffffff&border_radius=12" width="49%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta18-noob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_radius=12&langs_count=8" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diganta18-noob&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productivity"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diganta18-noob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff&border_radius=12&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diganta18-noob&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7B2FBE&sideLabels=ffffff&border_radius=12" width="48%" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta18-noob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_radius=12&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diganta18-noob&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productivity"/>
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-[![Diganta's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diganta18-noob&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diganta18-noob&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF&border_radius=12&theme=tokyo-night" alt="Diganta's GitHub Activity Graph" width="100%" />
+  </a>
+</p>
 
 ---
 
-## 🐍 My Contributions
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diganta18-noob/Diganta18-noob/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-</div>
+## ✨ 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Diganta18-noob&theme=tokyonight" width="100%" alt="3D Contribution Graph" />
+</p>
+
+---
+
+## 🎧 Spotify Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOURSPOTIFYID">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Diganta18-noob&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Diganta18-noob&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diganta-biswas)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diganta18-noob)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Diganta18-noob)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diganta@example.com)
+<p align="center">
+  <a href="https://linkedin.com/in/diganta-biswas">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Diganta18-noob">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:diganta@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YOURTWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+</p>
 
 <br/>
+
+<div align="center">
 
 > *"Any application that can be written in JavaScript, will eventually be written in JavaScript."*
 > — Jeff Atwood
