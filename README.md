@@ -51,11 +51,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=Diganta18-noob&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diganta18-noob&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=Diganta18-noob&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Diganta18-noob&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diganta18-noob&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
 </p>
 
 ---
