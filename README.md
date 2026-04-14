@@ -42,7 +42,7 @@
 - 🛒 DogCart — https://github.com/Diganta18-noob/DogCart
 - 💰 Loanapp — https://github.com/Diganta18-noob/Loanapp
 - 🏫 New Campus Management — https://github.com/Diganta18-noob/New-Campus-Management
-- ⚕️ PulseCare Pro — https://github.com/Diganta18-noob/PulseCare-Pro
+- 💬 Realtime Chat App Project — https://github.com/Diganta18-noob/chatapp
 
 > Tip: Keep README files in each repo with badges, setup steps, and usage examples.
 
